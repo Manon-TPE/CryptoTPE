@@ -23,6 +23,18 @@ Message crypté : 413532541215 11 1551 1113131544 11 3211 1224123224354523154251
 Lorsqu’on sait que ce message a été codé avec le carré de Polybe, il est très facile de le décrypter. Il suffit de mettre les chiffres par groupes de deux et de regarder dans le tableau à quelle lettre correspondent ces coordonnées.
 Maintenant, nous pouvons aussi créer une grille avec un alphabet désordonné commençant par le mot “POLYBE”
 
-**Tableaux**
+**+---+---+---+---+---+---+
+|   | 1 | 2 | 3 | 4 | 5 |
++---+---+---+---+---+---+
+| 1 | P | O | L | Y | B |
++---+---+---+---+---+---+
+| 2 | E | A | C | D | F |
++---+---+---+---+---+---+
+| 3 | G | H | I | J | K |
++---+---+---+---+---+---+
+| 4 | M | N | Q | R | S |
++---+---+---+---+---+---+
+| 5 | T | U | V | X | Z |
++---+---+---+---+---+---+**
 
 Le message “bibliothèque de Persée” ne sera plus codé “122412322435452315425115 1415 411543441515” mais “153315133312513221435221 2421 112144452121”
