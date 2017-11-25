@@ -13,7 +13,19 @@ romaine sur son emplacement. Les possessions africaines de Carthage deviennent l
 
 Le carré de Polybe est un système composé d’un carré de 25 cases dans lesquelles sont placés les lettres de l’alphabet (en français, le w est mis dans la même case que le v). Chaque lettre est représentée ses coordonnées dans ce carré : d’abord le chiffre de sa ligne puis celui de sa colonne. Ce système présente plusieurs avantages : la conversion de lettres en chiffres, la réduction du nombre symbole utilisé pour coder (5) et la représentation de chaque lettre par deux éléments séparés. Il fut utilisé pendant très longtemps et notamment par les nihilistes russes au XIXe siècle. C’était une organisation secrète dont le but était de tuer le tsar et ses représentants. Ils utilisaient ce code en prison en tapant contre le mur le nombre coups correspondant aux chiffres du messages. Cependant, une fois le système connu, n’importe qui peut déchiffrer le message. Il existe plusieurs variante à ce carré comme celle qui remplace les coordonnées par autres choses que les chiffres 1 2 3 4 5 (par exemple d’autres chiffres ou des lettres).Une autre variante consiste donc à remplir les cases avec les lettres de l’alphabet, toujours, mais dans le désordre. Il devient alors très compliqué de deviner à quelle lettre correspond chaque coordonnées. On peut notamment remplir le carré en commençant par un mot clé et compléter avec les lettres de l’alphabet restantes.
 
-**Tableaux**
+**+---+---+---+---+---+---+
+|   | 1 | 2 | 3 | 4 | 5 |
++---+---+---+---+---+---+
+| 1 | A | B | C | D | E |
++---+---+---+---+---+---+
+| 2 | F | G | H | I | J |
++---+---+---+---+---+---+
+| 3 | K | L | M | N | O |
++---+---+---+---+---+---+
+| 4 | P | Q | R | S | T |
++---+---+---+---+---+---+
+| 5 | U | V | X | Y | Z |
++---+---+---+---+---+---+**
 
 Message en clair : Polybe a eu accès à la bibliothèque de Persée
 Message crypté : 413532541215 11 1551 1113131544 11 3211 122412322435452315425115 1415 411543441515 
